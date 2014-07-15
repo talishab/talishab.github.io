@@ -33,6 +33,24 @@ left: 725px;
 color: white;
 }
 
+#herocontact {
+	width: 100%;
+	height: 613px;
+	background-image: url("../images/contact_splash.jpg");
+	background-position-y: 41%;
+	background-size: 100%;
+	background-repeat: none;
+}
+
+#herocontact:before {
+content: "CONTACT";
+position: relative;
+font-size: 100px;
+top: 506px;
+left: 725px;
+color: white;
+}
+
 /*#heroport {
 width: 100%;
 height: 613px;
